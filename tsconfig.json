@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true, // "import React" instead of "import * as React"
+    "jsx": "react",
+    "noEmit": true // Just use tsc as a type-checker
+  }
+}
