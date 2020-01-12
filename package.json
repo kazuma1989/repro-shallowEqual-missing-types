@@ -1,6 +1,6 @@
 {
   "name": "repro-shallowEqual-missing-types",
-  "description": "Reproduction of shallowEqual missing types in @types/react-redux",
+  "description": "Repro for an issue in @types/react-redux",
   "author": "kazuma1989 <kazuma.ebina@quipper.com>",
   "license": "MIT",
   "scripts": {
