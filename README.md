@@ -1,5 +1,7 @@
 # Repro for an issue in @types/react-redux
 
+https://github.com/DefinitelyTyped/DefinitelyTyped/pull/41540
+
 ## Getting started
 
 ```zsh
